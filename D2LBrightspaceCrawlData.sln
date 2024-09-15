@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2LBrightspaceCrawlData", "D2LBrightspaceCrawlData\D2LBrightspaceCrawlData.csproj", "{697883E5-588B-4278-99B2-AE2B1F47AE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697883E5-588B-4278-99B2-AE2B1F47AE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697883E5-588B-4278-99B2-AE2B1F47AE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697883E5-588B-4278-99B2-AE2B1F47AE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697883E5-588B-4278-99B2-AE2B1F47AE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\D2LBrightspaceCrawlData.exe.config
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\D2LBrightspaceCrawlData.exe
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\D2LBrightspaceCrawlData.pdb
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.csproj.AssemblyReference.cache
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.Properties.Resources.resources
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.csproj.GenerateResource.cache
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.csproj.CoreCompileInputs.cache
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.exe
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.pdb
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrightspaceCrawlData.Form1.resources
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\HtmlAgilityPack.dll
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\HtmlAgilityPack.pdb
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\HtmlAgilityPack.xml
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\obj\Debug\D2LBrigh.5F78780C.Up2Date
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\Newtonsoft.Json.dll
+F:\Freelance\SMU\D2LBrightspaceCrawlData\D2LBrightspaceCrawlData\bin\Debug\Newtonsoft.Json.xml
